@@ -31,12 +31,12 @@ The core classification model was trained using **Edge Impulse** on a custom dat
 **Validation Accuracy**: 89.0%  
 **Testing Accuracy**: ~92.06%
 
+<img width="868" height="702" alt="Screenshot 2026-02-05 234814" src="https://github.com/user-attachments/assets/2958b6f0-d9da-42ab-a2bb-23596acb62e4" />
+*Figure 1: Training Validation & Confusion Matrix*
 
-*Figure 1: Training Validation <img width="868" height="702" alt="Screenshot 2026-02-05 234814" src="https://github.com/user-attachments/assets/2958b6f0-d9da-42ab-a2bb-23596acb62e4" />
-& Confusion Matrix*
 
-*Figure 2: Model Testing <img width="1695" height="890" alt="Screenshot 2026-02-05 234903" src="https://github.com/user-attachments/assets/35be55b4-20ec-4c34-bac6-8dd43ca408fb" />
-Strategy & Feature Explorer*
+<img width="1695" height="890" alt="Screenshot 2026-02-05 234903" src="https://github.com/user-attachments/assets/35be55b4-20ec-4c34-bac6-8dd43ca408fb" />
+*Figure 2: Model Testing Strategy & Feature Explorer*
 
 ## 🛠️ Tech Stack
 
